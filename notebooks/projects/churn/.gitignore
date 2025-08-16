@@ -1,1 +1,5 @@
+# all env path
 .env
+
+# ignore saved output file
+*.xlsx
